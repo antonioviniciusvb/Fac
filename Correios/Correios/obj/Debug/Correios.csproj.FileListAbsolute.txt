@@ -1,0 +1,5 @@
+C:\Users\andvi\OneDrive\Project\C#\Correios\Correios\bin\Debug\Correios.dll
+C:\Users\andvi\OneDrive\Project\C#\Correios\Correios\bin\Debug\Correios.pdb
+C:\Users\andvi\OneDrive\Project\C#\Correios\Correios\obj\Debug\Correios.csproj.CoreCompileInputs.cache
+C:\Users\andvi\OneDrive\Project\C#\Correios\Correios\obj\Debug\Correios.dll
+C:\Users\andvi\OneDrive\Project\C#\Correios\Correios\obj\Debug\Correios.pdb
